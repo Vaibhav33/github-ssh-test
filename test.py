@@ -3,7 +3,7 @@ import time
 import json
 
 # --- CONFIGURATION ---
-#### This is a66666 placeholder key for testing your push capabilities.
+#### This is a111 placeholder key for testing your push capabilities.
 #### In a real scenario, use environment variables!
 API_KEY = "sk-test-51MzW2E2e9df90123-REDACTED-RANDOM-KEY-99"
 BASE_URL = "https://api.mockweather.io/v1/"
